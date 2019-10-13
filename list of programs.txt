@@ -1,0 +1,3 @@
+List of programs needed for intrview
+------------------------------------
+Write a program to check working of HashMap.
